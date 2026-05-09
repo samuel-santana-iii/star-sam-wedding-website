@@ -1,4 +1,4 @@
-# starandsam.com
+# star-sam-wedding-website
 
 Static wedding website for Star and Sam, archived from the original WordPress site.
 
